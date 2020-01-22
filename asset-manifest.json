@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bridcast/static/css/main.9f5947ea.chunk.css",
+    "main.css": "/bridcast/static/css/main.8eb605d0.chunk.css",
     "main.js": "/bridcast/static/js/main.c324cb89.chunk.js",
     "main.js.map": "/bridcast/static/js/main.c324cb89.chunk.js.map",
     "runtime-main.js": "/bridcast/static/js/runtime-main.6f60c3df.js",
@@ -9,10 +9,10 @@
     "static/js/2.7b200b06.chunk.js": "/bridcast/static/js/2.7b200b06.chunk.js",
     "static/js/2.7b200b06.chunk.js.map": "/bridcast/static/js/2.7b200b06.chunk.js.map",
     "index.html": "/bridcast/index.html",
-    "precache-manifest.d6ac77ac25c7cb2089c5202b8a867777.js": "/bridcast/precache-manifest.d6ac77ac25c7cb2089c5202b8a867777.js",
+    "precache-manifest.6d5a04b9971a55590e58b5198be24eee.js": "/bridcast/precache-manifest.6d5a04b9971a55590e58b5198be24eee.js",
     "service-worker.js": "/bridcast/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/bridcast/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.9f5947ea.chunk.css.map": "/bridcast/static/css/main.9f5947ea.chunk.css.map",
+    "static/css/main.8eb605d0.chunk.css.map": "/bridcast/static/css/main.8eb605d0.chunk.css.map",
     "static/js/2.7b200b06.chunk.js.LICENSE": "/bridcast/static/js/2.7b200b06.chunk.js.LICENSE",
     "static/media/index.css": "/bridcast/static/media/landing.df76add1.jpg",
     "static/media/bridcast-thumbnail-nonumb.jpg": "/bridcast/static/media/bridcast-thumbnail-nonumb.7d955f05.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.6f60c3df.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.7b200b06.chunk.js",
-    "static/css/main.9f5947ea.chunk.css",
+    "static/css/main.8eb605d0.chunk.css",
     "static/js/main.c324cb89.chunk.js"
   ]
 }
