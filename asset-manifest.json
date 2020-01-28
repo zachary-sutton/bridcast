@@ -1,33 +1,28 @@
 {
   "files": {
-    "main.css": "/bridcast/static/css/main.8eb605d0.chunk.css",
-    "main.js": "/bridcast/static/js/main.9ae2f37e.chunk.js",
-    "main.js.map": "/bridcast/static/js/main.9ae2f37e.chunk.js.map",
+    "main.css": "/bridcast/static/css/main.19c02a1d.chunk.css",
+    "main.js": "/bridcast/static/js/main.23772cc3.chunk.js",
+    "main.js.map": "/bridcast/static/js/main.23772cc3.chunk.js.map",
     "runtime-main.js": "/bridcast/static/js/runtime-main.6f60c3df.js",
     "runtime-main.js.map": "/bridcast/static/js/runtime-main.6f60c3df.js.map",
     "static/css/2.47e06e2e.chunk.css": "/bridcast/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.7b200b06.chunk.js": "/bridcast/static/js/2.7b200b06.chunk.js",
-    "static/js/2.7b200b06.chunk.js.map": "/bridcast/static/js/2.7b200b06.chunk.js.map",
+    "static/js/2.4b3e3e20.chunk.js": "/bridcast/static/js/2.4b3e3e20.chunk.js",
+    "static/js/2.4b3e3e20.chunk.js.map": "/bridcast/static/js/2.4b3e3e20.chunk.js.map",
     "index.html": "/bridcast/index.html",
-    "precache-manifest.da4edd7c2520f152ea21f8ec5722447a.js": "/bridcast/precache-manifest.da4edd7c2520f152ea21f8ec5722447a.js",
+    "precache-manifest.b469bab21ae68801441999658bd892be.js": "/bridcast/precache-manifest.b469bab21ae68801441999658bd892be.js",
     "service-worker.js": "/bridcast/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/bridcast/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.8eb605d0.chunk.css.map": "/bridcast/static/css/main.8eb605d0.chunk.css.map",
-    "static/js/2.7b200b06.chunk.js.LICENSE": "/bridcast/static/js/2.7b200b06.chunk.js.LICENSE",
+    "static/css/main.19c02a1d.chunk.css.map": "/bridcast/static/css/main.19c02a1d.chunk.css.map",
+    "static/js/2.4b3e3e20.chunk.js.LICENSE": "/bridcast/static/js/2.4b3e3e20.chunk.js.LICENSE",
     "static/media/index.css": "/bridcast/static/media/landing.df76add1.jpg",
-    "static/media/bridcast-thumbnail-nonumb.jpg": "/bridcast/static/media/bridcast-thumbnail-nonumb.7d955f05.jpg",
-    "static/media/bridcast-thumbnail.jpg": "/bridcast/static/media/bridcast-thumbnail.1a1e7064.jpg",
-    "static/media/bridcast-thumbnail2.jpg": "/bridcast/static/media/bridcast-thumbnail2.6b62d975.jpg",
-    "static/media/bridcast-thumbnail3.jpg": "/bridcast/static/media/bridcast-thumbnail3.b983bb3b.jpg",
-    "static/media/bridcast-thumbnail4.jpg": "/bridcast/static/media/bridcast-thumbnail4.7eb96d6b.jpg",
     "static/media/headshot.jpg": "/bridcast/static/media/headshot.d77f39ba.jpg",
     "static/media/logo.jpg": "/bridcast/static/media/logo.0242f31f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6f60c3df.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.7b200b06.chunk.js",
-    "static/css/main.8eb605d0.chunk.css",
-    "static/js/main.9ae2f37e.chunk.js"
+    "static/js/2.4b3e3e20.chunk.js",
+    "static/css/main.19c02a1d.chunk.css",
+    "static/js/main.23772cc3.chunk.js"
   ]
 }
