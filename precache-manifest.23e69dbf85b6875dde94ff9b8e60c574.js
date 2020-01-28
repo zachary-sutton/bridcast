@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f10a8e6020f2a4233a35b2abf80a4481",
+    "revision": "329f886d5ff12b00d474a2d6a64dc914",
     "url": "/bridcast/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bridcast/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "69db7fc32ff7fb352ede",
+    "revision": "b02318bebd19e674c591",
     "url": "/bridcast/static/css/main.97b165af.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bridcast/static/js/2.aa8126c2.chunk.js.LICENSE"
   },
   {
-    "revision": "69db7fc32ff7fb352ede",
-    "url": "/bridcast/static/js/main.c608143a.chunk.js"
+    "revision": "b02318bebd19e674c591",
+    "url": "/bridcast/static/js/main.6ee902d5.chunk.js"
   },
   {
     "revision": "5b6af2c6e3fabf3bc631",
