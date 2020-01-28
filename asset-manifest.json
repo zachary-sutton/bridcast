@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/bridcast/static/css/main.19c02a1d.chunk.css",
-    "main.js": "/bridcast/static/js/main.23772cc3.chunk.js",
-    "main.js.map": "/bridcast/static/js/main.23772cc3.chunk.js.map",
+    "main.css": "/bridcast/static/css/main.97b165af.chunk.css",
+    "main.js": "/bridcast/static/js/main.c608143a.chunk.js",
+    "main.js.map": "/bridcast/static/js/main.c608143a.chunk.js.map",
     "runtime-main.js": "/bridcast/static/js/runtime-main.6f60c3df.js",
     "runtime-main.js.map": "/bridcast/static/js/runtime-main.6f60c3df.js.map",
     "static/css/2.47e06e2e.chunk.css": "/bridcast/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.4b3e3e20.chunk.js": "/bridcast/static/js/2.4b3e3e20.chunk.js",
-    "static/js/2.4b3e3e20.chunk.js.map": "/bridcast/static/js/2.4b3e3e20.chunk.js.map",
+    "static/js/2.aa8126c2.chunk.js": "/bridcast/static/js/2.aa8126c2.chunk.js",
+    "static/js/2.aa8126c2.chunk.js.map": "/bridcast/static/js/2.aa8126c2.chunk.js.map",
     "index.html": "/bridcast/index.html",
-    "precache-manifest.b469bab21ae68801441999658bd892be.js": "/bridcast/precache-manifest.b469bab21ae68801441999658bd892be.js",
+    "precache-manifest.8823974ac1e21ce3508c5fd6acac9f95.js": "/bridcast/precache-manifest.8823974ac1e21ce3508c5fd6acac9f95.js",
     "service-worker.js": "/bridcast/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/bridcast/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.19c02a1d.chunk.css.map": "/bridcast/static/css/main.19c02a1d.chunk.css.map",
-    "static/js/2.4b3e3e20.chunk.js.LICENSE": "/bridcast/static/js/2.4b3e3e20.chunk.js.LICENSE",
-    "static/media/index.css": "/bridcast/static/media/landing.df76add1.jpg",
-    "static/media/headshot.jpg": "/bridcast/static/media/headshot.d77f39ba.jpg",
+    "static/css/main.97b165af.chunk.css.map": "/bridcast/static/css/main.97b165af.chunk.css.map",
+    "static/js/2.aa8126c2.chunk.js.LICENSE": "/bridcast/static/js/2.aa8126c2.chunk.js.LICENSE",
+    "static/media/Bridlington.png": "/bridcast/static/media/Bridlington.1fa789bf.png",
+    "static/media/index.css": "/bridcast/static/media/studio.5a325233.jpg",
+    "static/media/loading.gif": "/bridcast/static/media/loading.5fe0e55f.gif",
     "static/media/logo.jpg": "/bridcast/static/media/logo.0242f31f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6f60c3df.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.4b3e3e20.chunk.js",
-    "static/css/main.19c02a1d.chunk.css",
-    "static/js/main.23772cc3.chunk.js"
+    "static/js/2.aa8126c2.chunk.js",
+    "static/css/main.97b165af.chunk.css",
+    "static/js/main.c608143a.chunk.js"
   ]
 }
