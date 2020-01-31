@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fb85cb9b6c47ef1cf55e7d5541517af",
+    "revision": "5933e8e80ca372e68e1927979ee428b1",
     "url": "/bridcast/index.html"
   },
   {
